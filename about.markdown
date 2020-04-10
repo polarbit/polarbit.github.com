@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Me?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi. My name is Safak Ulusoy.  
+I am a father, of a daughter ❤.  
+Then, I am a Software Engineer.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I believe in lifetime learning, self-teaching and learning by sharing.  
+Learning is an endless journey; and we are always just students.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I love modern software technology, (clean) coding and software craftmanship.  
+I strongly and passionatly try to follow, study and practice the topics of...  
+&emsp; Cloud Native | Serverless | Containers | Microservices | Event Driven | Distributed Apps
 
-
-[jekyll-organization]: https://github.com/jekyll
+![](https://res.cloudinary.com/ubrabilisim/image/upload/c_scale,w_400/v1586477191/safakulusoy.com/FB_IMG_1586476810297.jpg)
