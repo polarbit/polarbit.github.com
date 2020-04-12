@@ -25,6 +25,7 @@ description: >- # .... some comment
   Here is my humble home page, and also a hub for my other online beings.
 baseurl: ""
 url: "https://safakulusoy.com"
+timezone: Europe/Istanbul
 github_username:  polarbit
 twitter_username: polarbit29
 stackoverflow_username: "4843603"

@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi. My name is Safak Ulusoy.  
-I am a father, of a daughter ❤.  
+I am a father, of my little daughter ❤.  
 Then, I am a Software Engineer.
 
 I believe in lifetime learning, self-teaching and learning by sharing.  
@@ -15,4 +15,4 @@ I love modern software technology, (clean) coding and software craftmanship.
 I strongly and passionatly try to follow, study and practice the topics of...  
 &emsp; Cloud Native | Serverless | Containers | Microservices | Event Driven | Distributed Apps
 
-![](https://res.cloudinary.com/ubrabilisim/image/upload/c_scale,w_400/v1586477191/safakulusoy.com/FB_IMG_1586476810297.jpg)
+![](https://res.cloudinary.com/safakulusoy/image/upload/c_scale,w_400/v1586477191/safakulusoy.com/FB_IMG_1586476810297.jpg)
